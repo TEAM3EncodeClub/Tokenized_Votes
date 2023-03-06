@@ -8,6 +8,10 @@
 * Write a report with each function execution and the transaction hash, if successful, or the revert reason, if failed
 * Share your code in a github repo in the submission form
 
+## Code Repository
+
+### [Tokenized_Votes](https://github.com/P1R/Tokenized_Votes)
+
 ## Script Code (scripts/TokenizedBallot.ts): 
 The following script code performs the Weekend Project Tasks
 
