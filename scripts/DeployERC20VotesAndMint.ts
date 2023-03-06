@@ -9,9 +9,13 @@ async function main() {
 
   // Deploy ERC20Votes Contract
   const provider = new ethers.providers.InfuraProvider(
-      "goerli",
+      "maticmum",
       process.env.INFURA_API_KEY
   );
+  //const provider = new ethers.providers.InfuraProvider(
+  //    "goerli",
+  //    process.env.INFURA_API_KEY
+  //);
 
   console.log({ provider });
   const pkey = process.env.PRIVATE_KEY;
